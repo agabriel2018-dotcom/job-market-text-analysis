@@ -23,11 +23,3 @@ Suggested packages (install what you need based on your environment):
 - `openai` (if running LLM-assisted steps)
 - any other packages referenced in the notebook
 
-## Setup
-
-### 1) Create an environment (optional but recommended)
-```bash
-python -m venv .venv
-source .venv/bin/activate  # macOS/Linux
-# .venv\Scripts\activate   # Windows
-pip install -U pip
